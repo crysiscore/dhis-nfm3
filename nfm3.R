@@ -1,5 +1,5 @@
 
-#--             We are going to need these two libraries                    --#
+#--   We need these two libraries                    --#
 require(curl)
 require(tidyr)
 
