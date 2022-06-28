@@ -10,7 +10,7 @@ source('misc_functions.R')
 # Login Information
 base.url<-"https://mail.ccsaude.org.mz:5595/dhis/"
 username<-"Agnaldo.Samuel"
-password<-"MysticHigh2020!"
+password<-""
 
 
 #FG Ficha de Notificacao de Casos para Apoio Legal DH NFM3
